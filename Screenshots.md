@@ -1,3 +1,3 @@
-!ganache_screenshot_1.png
+![](https://github.com/tarawalm/module_19_challenge/blob/main/ganache%20screenshot%201.png)
 
-!ganache_screenshot_2.png
+![](https://github.com/tarawalm/module_19_challenge/blob/main/ganache%20screenshot%202.png)
